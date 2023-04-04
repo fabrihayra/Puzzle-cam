@@ -16,7 +16,7 @@ This is a web application that allows users to create a live puzzle using their 
 * HTML
 * CSS
 * JavaScript
-##Credits
+## Credits
 This project was created by Hayra Fabri Jung. Feel free to contribute to the project by submitting pull requests or issues.
 
 
